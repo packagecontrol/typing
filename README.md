@@ -1,6 +1,4 @@
 # *typing* module for Package Control
-[![Build Status](https://travis-ci.org/packagecontrol/typing.png?branch=master)](https://travis-ci.org/packagecontrol/typing)
-
 
 This is the *[typing][]* module
 bundled for usage with [Package Control][],
